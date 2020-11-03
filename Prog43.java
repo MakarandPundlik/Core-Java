@@ -11,7 +11,7 @@ class B extends A
 	void show()
 	{
 		System.out.println(" B's implementation of show()");
-		super.show();
+		super.show()
 	}
 }
 class Prog43
