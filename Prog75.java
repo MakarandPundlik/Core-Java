@@ -14,4 +14,4 @@ class Prog75
 		//returns -1 if elements is not present
 	}
 }
- 
+ /*There is an another method called String.valueOf() which also can be used to convert Int to String*/
