@@ -4,7 +4,7 @@
 ## Table of Contents
 |Program                        |Descreption                            |
 |:------------------------------|:--------------------------------------|
-|[Tips_Tricks](tips_tricks)|Some tips for java programming|
+|[Tips_Tricks](Tips_Tricks)|Some tips for java programming|
 |[test](test)  |User defined package in java|
 |[Prog01.java](Prog01.java)  |Simple Hello World Program in Java|
 |[Prog02.java](Prog02.java)  |Display contents of variable|
