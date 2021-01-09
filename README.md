@@ -93,3 +93,9 @@
 |[Prog85.java](Prog85.java)|File handling in java|
 |[Prog86.java](Prog86.java)|File handling in java|
 |[Prog87.java](Prog87.java)|File handling in java|
+|[Prog88.java](Prog88.java)|Simple applet in java|
+|[Prog89.java](Prog89.java)|Date() in java|
+|[Prog90.java](Prog90.java)|Example of Buttons in java|
+|[Prog91.java](Prog91.java)|Example of Buttons in java(2)|
+|[Prog92.java](Prog92.java)|Example of CheckBox in java|
+|[Prog93.java](Prog93.java)|Example of RadioButtons in java|
