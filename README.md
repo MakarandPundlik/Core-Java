@@ -87,3 +87,9 @@
 |[Prog79.java](Prog79.java)|Methods of StringBuffer class|
 |[Prog80.java](Prog80.java)|Wrapper class|
 |[Prog81.java](Prog81.java)|Math class|
+|[Prog82.java](Prog82.java)|I/O in java|
+|[Prog83.java](Prog83.java)|I/O in java|
+|[Prog84.java](Prog84.java)|I/O in java|
+|[Prog85.java](Prog85.java)|File handling in java|
+|[Prog86.java](Prog86.java)|File handling in java|
+|[Prog87.java](Prog87.java)|File handling in java|
