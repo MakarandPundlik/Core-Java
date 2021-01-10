@@ -99,3 +99,5 @@
 |[Prog91.java](Prog91.java)|Example of Buttons in java(2)|
 |[Prog92.java](Prog92.java)|Example of CheckBox in java|
 |[Prog93.java](Prog93.java)|Example of RadioButtons in java|
+|[Prog94.java](Prog94.java)|Example 1 on frame ScrollBars|
+|[Prog95.java](Prog95.java)|Example 2 on frame user defined Adapter|
