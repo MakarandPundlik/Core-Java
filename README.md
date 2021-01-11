@@ -101,3 +101,4 @@
 |[Prog93.java](Prog93.java)|Example of RadioButtons in java|
 |[Prog94.java](Prog94.java)|Example 1 on frame ScrollBars|
 |[Prog95.java](Prog95.java)|Example 2 on frame user defined Adapter|
+|[Prog96.java](Prog96)|Example on hardware frame|
